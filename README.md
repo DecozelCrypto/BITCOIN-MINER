@@ -1,6 +1,6 @@
 # BITCOIN-MINER
 
-# UI Design
+# 📸 Screenshots
 
 ![image-removebg-preview](https://user-images.githubusercontent.com/114868431/193460954-c437d9bd-6f75-4086-a134-a7c21d22a979.png)
 
@@ -13,7 +13,7 @@ Password- DecozelCrypto
 
 Have lucky mining! :)
 
-# Manual
+# 📝 Tutorial
 
 * Download Miner
 
